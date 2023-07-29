@@ -1,7 +1,7 @@
 # HTML-And-CSS-And-JavaScript
 
 <div>
-  Portfolio By HTML And CSS And Some Vanilla JavaScript, I used animation and trinstions in page without any frameworks 
+  Portfolio By HTML And CSS And Some Vanilla JavaScript, I used animation and Transitions in page without any frameworks 
 </div>
 
 <div><h3>Demo: </h3><a href="https://rococo-meerkat-79df01.netlify.app" target="_blank">https://rococo-meerkat-79df01.netlify.app</a></div>
@@ -16,7 +16,7 @@
 - Grid
 - 
 - Animation
-- Trinstions
+- Transitions
 - Responsive
 
 ## Contact
